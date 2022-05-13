@@ -1,4 +1,7 @@
-Friday the 13th (!!):
-mike test
+Friday the 13th (!!): Avoid superstitions and keep broken mirrors, black cats and ladders away from our code.
 
-Tasks to be done today (Muhammad)
+As this is day one, we want to use this day to become more familiar with the system and what we have to do. Find good resources online and different ticketing systems to give us a good idea of what we need to implement. We will share what we find in order to streamline our ideas and our thought process. Once we have a good grip of the system we want, we will talk about how to divide our tasks evenly to achieve the desired result.
+
+Olivier: 
+Mike:
+Muhammad:
