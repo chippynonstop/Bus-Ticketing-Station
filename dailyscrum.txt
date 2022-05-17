@@ -10,10 +10,14 @@ Muhammad:
 17-05-21
 
 Muhammad:
-TO Do's:
-- trying to link java spring project to amazon RDS mysql database instance, so that our project can run online and not dependent on local database
-- create account with heroku and test uploading the existing version of the project, and test out github hosting capabilities
-- implement payment module
+  * what do i need to do for next scrum
+                     - trying to link java spring project to amazon RDS mysql database instance, so that our project can run online and not dependent on local database
+                     - create account with heroku and test uploading the existing version of the project, and test out github hosting capabilities
+                     - implement payment module
+                     
+
+  * are there any problems stopping me or need help with
+                     - payment module seems to be a thorn in my side for now
 
 Olivier:
 There are a few things and tweaks to do on the project that I will be working on today. 
