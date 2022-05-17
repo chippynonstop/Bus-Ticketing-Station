@@ -23,7 +23,7 @@ Muhammad:
 
   * are there any problems stopping me or need help with
                      - payment module seems to be a thorn in my side for now
-                     - figuring out what changes need to be made to the project in application properties file so that our project runs online
+                     - figuring out what changes need to be made to the project in application properties file so that our project runs online without local databases
 
 Olivier:
 There are a few things and tweaks to do on the project that I will be working on today. 
