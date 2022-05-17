@@ -7,10 +7,22 @@ Mike:
 Muhammad:
 
 
-17-05-22
+17-05-21
 
 Muhammad:
-To Do's:
+TO Do's:
 - trying to link java spring project to amazon RDS mysql database instance, so that our project can run online and not dependent on local database
 - create account with heroku and test uploading the existing version of the project, and test out github hosting capabilities
 - implement payment module
+
+Olivier:
+There are a few things and tweaks to do on the project that I will be working on today. 
+-Fix the rest response so that when the search function is activated, only the menu and not the whole page reloads (ajax)
+-Create a dashboard for user and admin
+-Receive a confirmation e-mail when the user books his ticket
+-Make the website look nicer
+-I'd like to add a functionality where you can search every dates and not just one date
+-A payment processing system would be another good thing to have before friday
+
+This should be enough for this morning
+
