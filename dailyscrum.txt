@@ -5,3 +5,12 @@ As this is day one, we want to use this day to become more familiar with the sys
 Olivier: 
 Mike:
 Muhammad:
+
+
+17-05-21
+
+Muhammad:
+TO Do's:
+- trying to link java spring project to amazon RDS mysql database instance, so that our project can run online and not dependent on local database
+- create account with heroku and test uploading the existing version of the project, and test out github hosting capabilities
+- implement payment module
