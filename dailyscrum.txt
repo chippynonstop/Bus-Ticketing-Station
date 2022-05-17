@@ -10,6 +10,11 @@ Muhammad:
 17-05-21
 
 Muhammad:
+  * what have I done since last scrum
+                       - created an amazon account
+                       - created an RDS instance
+                       - linked up mysql and amazon web services
+
   * what do i need to do for next scrum
                      - trying to link java spring project to amazon RDS mysql database instance, so that our project can run online and not dependent on local database
                      - create account with heroku and test uploading the existing version of the project, and test out github hosting capabilities
@@ -18,6 +23,7 @@ Muhammad:
 
   * are there any problems stopping me or need help with
                      - payment module seems to be a thorn in my side for now
+                     - figuring out what changes need to be made to the project in application properties file so that our project runs online
 
 Olivier:
 There are a few things and tweaks to do on the project that I will be working on today. 
