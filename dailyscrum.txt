@@ -7,7 +7,7 @@ Mike:
 Muhammad:
 
 
-17-05-21
+17-05-22
 
 Muhammad:
   * what have I done since last scrum
@@ -36,3 +36,9 @@ There are a few things and tweaks to do on the project that I will be working on
 
 This should be enough for this morning
 
+
+Scrum of wednesday 18-05-22
+
+Olivier:
+After yesterday's talk with the professor, I have tried to pivot away from the superficial functionalities mentioned above and tried to refocus on fixing the database. I'm trying to adapt the search functionalities to be able to search everything without having to choose a specific day and streamline the process. I also want to add an update function for the admin, since right now there is only an add and delete function.
+Not much was done yesterday, I tried a lot of different approaches and nothing worked. Today's focus is on editing what we have.
