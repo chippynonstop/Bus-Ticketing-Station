@@ -42,3 +42,17 @@ Scrum of wednesday 18-05-22
 Olivier:
 After yesterday's talk with the professor, I have tried to pivot away from the superficial functionalities mentioned above and tried to refocus on fixing the database. I'm trying to adapt the search functionalities to be able to search everything without having to choose a specific day and streamline the process. I also want to add an update function for the admin, since right now there is only an add and delete function.
 Not much was done yesterday, I tried a lot of different approaches and nothing worked. Today's focus is on editing what we have.
+
+Muhammad:
+
+* what have I done since last scrum
+                       - looked at approaches of how to start the system from scratch, since the professor has vehemently rejected the current database design
+
+  * what do i need to do for next scrum
+                      I'm trying to build a simplified system from scratch. Not technically scratch, I'm going to borrow elements from the main project, and if our main one is still going towards success, I can copy the modules of the new one and fine tune them for the new project. E.g. if the main project comes on the right path, I can copy my payment module, and fine tune it for the main one.
+                      I didn't work on the payment module for now. But that is the task of today
+                     
+
+  * are there any problems stopping me or need help with
+                     - far too many approaches are possible, and too many things can be added, but the focus should be on simplicity
+
