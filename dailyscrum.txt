@@ -56,3 +56,8 @@ Muhammad:
   * are there any problems stopping me or need help with
                      - far too many approaches are possible, and too many things can be added, but the focus should be on simplicity
 
+Scrum of thurday 19-05-22
+
+Olivier:
+Its thursday so let's honor thor! *throws hammer at wall*
+Yesterday I was re-did most of the file in order to adapt to the new circumstances and make it simpler and more streamlined. After a lot of work and bug-fixing I settled on a template that I'm very happy with. Today I will fix the last bugs and try to add some functionalities such as editing trips. Later I will merge my program with Muhammad's new functions and upload it to the cloud, and merge my program with Michael's frontend and this should give us our final version. Many bugs will be met along the way but this is why I brought along with my digital squasher.
